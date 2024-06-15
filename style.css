@@ -3,6 +3,10 @@
 .linkimg { width: 16px; height: 16px; margin-right: 1px; position: relative; top:3px; margin: 0 5px 0 8px; }
 .baidu{ background: url(icon/baidu.svg) no-repeat center/cover; }
 .google{ background: url(icon/g.svg) no-repeat center/cover; }
+.meta{ background: url(icon/meta.png) no-repeat center/cover; }
+.aisou{ background: url(icon/aisou.png) no-repeat center/cover; }
+.kaifa{ background: url(icon/kaifa.ico) no-repeat center/cover; }
+.thinkanyai{ background: url(icon/thinkanyai.png) no-repeat center/cover; }
 html,
 body { width: 100%; height: 100%; position: relative; overflow: hidden; background: #fff; }
 html { font-family: 'Noto Sans SC Sliced', PingFangSC-Light, Microsoft YaHei UI, Microsoft YaHei, helvetica, sans-serif; font-weight: 500; color: #000; }
